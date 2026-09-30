@@ -1,0 +1,6 @@
+{
+  "name": "iTantra — Offline Indic Semantic Radio & Disaster Mesh",
+  "description": "Portfolio and SIH submission for iTantra: Offline Indic STT/TTS, prosody-preserving semantic radio, and phone-only disaster mesh by Team Hexabits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
